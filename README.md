@@ -6,9 +6,15 @@
 
 This repo is designed to help viewers improving programming skills and revisiting deep learning knowledge.
 
-Please follow and respect the [Coursera Honor Code](https://learner.coursera.help/hc/en-us/articles/209818863-Coursera-Honor-Code) if you are enrolled with any Coursera Deep Learning courses. It is OK to use this repo as a reference to debug your program, but you are not allowed to copy-paste codes from this repo to getting by the Lab Assignments.
+Please follow and respect the [Coursera Honor Code](https://learner.coursera.help/hc/en-us/articles/209818863-Coursera-Honor-Code) if you are enrolled with any Coursera Deep Learning courses. It is OK to use this repo as a reference to debug your program, but it not right to copy-paste codes just to getting by the Assignments.
 
-[**Books**](./AI_books) on Deep Learning, Computer Vision, Data Analytics, AI, NLP, Convex Optimization, Linear Algebra, Differential Equation.
+There are a lot online freee learning materials. Feel free to check the attached [**Books**](./AI_books) on Deep Learning, Computer Vision, Data Analytics, AI, NLP, Convex Optimization, Linear Algebra, Differential Equation.
+
+Moreover, you are welcomed to visit [C.Cui's AI blog](https://cuicaihao.com/) to find more interesting topics on Deep Learning (No Ads).
+
+<img src="Deep Learning Coursera BD8PN3VDAA6V.png"
+     alt="Markdown Monster icon"
+     style="float: center; width:480px" />
 
 ## Introduction
 
