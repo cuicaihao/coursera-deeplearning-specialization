@@ -1,30 +1,20 @@
 # Deep Learning Specialization on Coursera
 
-**Master Deep Learning, and Break into AI**
+## Notification:
 
-- Organization: https://www.deeplearning.ai
-- Course: https://www.coursera.org/specializations/deep-learning
-- Instructor: [Andrew Ng](http://www.andrewng.org/)
-- 中文推荐 GitBook [吴恩达《深度学习》系列课程笔记]: (https://kyonhuang.top/Andrew-Ng-Deep-Learning-notes/#/)
+**Knowledge and practical experience are more important than certificates in life.**
 
-[**Free Books**](./AI_books) on Deep Learning, Computer Vision, Data Analytics, AI, NLP, Convex Optimization, Linear Algebra, Differential Equation.
+This repo is designed to help viewers improving programming skills and revisiting deep learning knowledge.
 
-- 2011_Book_Computer_Vision.pdf
-- 2014_Book_Data_Analysis.pdf
-- 2015 A Primer on Neural Networks Models for Natural Language Processing.pdf
-- 2015_Book_AppliedPartialDifferentialEqua.pdf
-- 2015_Book_LinearAlgebraDoneRight.pdf
-- 2017_Book_IntroductionToArtificialIntell.pdf
-- 2017_Book_IntroductionToDataScience.pdf
-- 2018_Book_IntroductionToDeepLearning.pdf
-- 2018_Book_NeuralNetworksAndDeepLearning.pdf
-- 2020 Algorithms for Convex Optimization.pdf
+Please follow and respect the [Coursera Honor Code](https://learner.coursera.help/hc/en-us/articles/209818863-Coursera-Honor-Code) if you are enrolled with any Coursera Deep Learning courses. It is OK to use this repo as a reference to debug your program, but you are not allowed to copy-paste codes from this repo to getting by the Lab Assignments.
+
+[**Books**](./AI_books) on Deep Learning, Computer Vision, Data Analytics, AI, NLP, Convex Optimization, Linear Algebra, Differential Equation.
 
 ## Introduction
 
-This repo contains all my work for this specialization. All the code base and images, are taken from [Deep Learning Specialization on Coursera](https://www.coursera.org/specializations/deep-learning).
+This repo contains all my work for this specialization. The code and images, are taken from [Deep Learning Specialization on Coursera](https://www.coursera.org/specializations/deep-learning).
 
-In five courses, you will learn the foundations of Deep Learning, understand how to build neural networks, and learn how to lead successful machine learning projects.
+In five courses, you are going learn the foundations of Deep Learning, understand how to build neural networks, and learn how to lead successful machine learning projects.
 You will learn about Convolutional networks, RNNs, LSTM, Adam, Dropout, BatchNorm, Xavier/He initialization, and more.
 You will work on case studies from healthcare, autonomous driving, sign language reading, music generation, and natural language processing.
 You will master not only the theory, but also see how it is applied in industry. You will practice all these ideas in Python and in TensorFlow, which we will teach.
@@ -119,3 +109,10 @@ Code:
 ## Research Papers Referenced
 
 - [Reference.md](./Reference.md)
+
+**Master Deep Learning, and Break into AI**
+
+- Organization: https://www.deeplearning.ai
+- Course: https://www.coursera.org/specializations/deep-learning
+- Instructor: [Andrew Ng](http://www.andrewng.org/)
+- 中文推荐 GitBook [吴恩达《深度学习》系列课程笔记]: (https://kyonhuang.top/Andrew-Ng-Deep-Learning-notes/#/)
